@@ -12,7 +12,7 @@ def configureReactNativePom(def pom) {
     pom.project {
         name POM_NAME
 
-        description 'A library for selecting images from photo library on android'
+        description 'The best large list component for React Native.'
         url 'https://github.com/skillz/react-native-largelist'
 
         scm {
