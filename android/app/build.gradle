@@ -103,7 +103,7 @@ android {
 
     defaultConfig {
         applicationId "com.largelistdemo"
-        minSdkVersion 20
+        minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
